@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263002750219",
+    "firebase_url": "https://ttfirebasepre.firebaseio.com",
+    "project_id": "ttfirebasepre",
+    "storage_bucket": "ttfirebasepre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263002750219:android:15e68fc1d5767df82bb60e",
+        "android_client_info": {
+          "package_name": "com.example.ftthonay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263002750219-sm5jat3n6at85reqo1ovospbv8hl3u5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWCrp0hDED_2n-xa3kpUF04cHLyOWw8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263002750219-sm5jat3n6at85reqo1ovospbv8hl3u5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

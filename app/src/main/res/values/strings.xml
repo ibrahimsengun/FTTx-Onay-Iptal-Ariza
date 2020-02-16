@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">TTPre</string>
+
+    <string-array name="IPTALSEBEP">
+        <item>Seçiniz</item>
+        <item>İşlem yanlış adrese kesilmiş</item>
+        <item>Kurulum yapılamıyor</item>
+        <item>Müşteri abonelikten vazgeçti</item>
+        <item>Müşteri irtibat bilgileri yanlış</item>
+        <item>Müşteriye ulaşılamıyor</item>
+    </string-array>
+
+    <string-array name="ONTMODEL">
+        <item>ONT cihaz yok</item>
+        <item>ERC / T61G</item>
+        <item>ERC / T072G2</item>
+        <item>ERC / T072G</item>
+        <item>ALC / G-010G-Q</item>
+        <item>ALC / G-010G-P</item>
+        <item>ALC / 1-240G-D</item>
+    </string-array>
+
+    <string-array name="HGWMODEL">
+        <item>ZTE / ZXHN H298A V1.0</item>
+        <item>TP-LINK / ARCHER C5V</item>
+        <item>ZYXEL / VMG8324-B104</item>
+        <item>TILGIN / HG2301</item>
+        <item>TILGIN / HG1351</item>
+        <item>TILGIN / HG2331</item>
+    </string-array>
+
+    <string-array name="ISTURU">
+        <item>KABLO ARIZA</item>
+        <item>HASAR</item>
+        <item>HIRSIZLIK</item>
+        <item>GÜZERGAH</item>
+        <item>BOŞTAKİ KABLO</item>
+        <item>GÜNLÜK İŞ RAPORU</item>
+    </string-array>
+
+    <string-array name="KODGRUBU">
+        <item>Müşteriye Ulaşılamadı</item>
+        <item>Müşteri Sorumluluğunda - Giderilemedi</item>
+        <item>TT Sorumluluğunda Giderildi</item>
+        <item>Kontrol</item>
+    </string-array>
+
+    <string-array name="KOD1">
+        <item>Adres yanlış</item>
+        <item>Müşteri evde yok / Binaya veya eve girilemiyor</item>
+        <item>Müşteri iletişim bilgisi yanlıştır</item>
+        <item>Müşteriye ulaşılamadı</item>
+    </string-array>
+
+    <string-array name="KOD2">
+        <item>Bina/Ev elektrik sorunu</item>
+        <item>Hane/Ev içi HGW yer/oda değişikliği müşteri tarafından yapılmalı</item>
+        <item>Müşteri sorumluluğundaki hane/ev içi kablo/konnektör arızası</item>
+        <item>PC arızası / PC uygulama sorunu</item>
+    </string-array>
+
+    <string-array name="KOD3">
+        <item>Bina içi kablo bağlantısı düzeltildi</item>
+        <item>Hane/Ev içi ethernet kablo arızası giderildi</item>
+        <item>HGW adaptör değiştirildi / Enerji sorunu giderildi</item>
+        <item>HGW değiştirildi</item>
+        <item>HGW resetlendi/kapatıldı - açıldı</item>
+        <item>Kablosuz sinyal gücü yükseltildi / Kablosuz standart değiştirildi / Anten değişitrildi</item>
+        <item>ONT/MDU cihazlarına enerji sağlandı</item>
+        <item>ONT değiştirildi</item>
+        <item>ONT resetlendi/kapatıldı - açıldı</item>
+    </string-array>
+
+    <string-array name="KOD4">
+        <item>Bina içi HGW-MDU arasındaki F/O kablo zayıflaması var</item>
+        <item>Bina içi HGW-MDU arasındaki F/O kablo kopuk</item>
+        <item>MDU kontrol edilmelidir</item>
+        <item>ONT kontrol edilmelidir</item>
+    </string-array>
+</resources>
